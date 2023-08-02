@@ -5,7 +5,7 @@ project:
 book:
   title: "ada-book-notebook"
   author: "Jane Doe"
-  date: "27/07/2023"
+  date: "02/08/2023"
   chapters:
     - index.qmd
     - all_press.ipynb
